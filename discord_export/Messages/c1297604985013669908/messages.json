@@ -1,0 +1,14 @@
+[
+{"ID": 1313968356058988644, "Timestamp": "2024-12-04 20:41:08", "Contents": "you as well", "Attachments": ""},
+{"ID": 1313961680643948605, "Timestamp": "2024-12-04 20:14:36", "Contents": "hi. im just going over the slides", "Attachments": ""},
+{"ID": 1297713429930315816, "Timestamp": "2024-10-21 00:09:52", "Contents": "No problem", "Attachments": ""},
+{"ID": 1297706430413017118, "Timestamp": "2024-10-20 23:42:03", "Contents": "Take that with a grain of salt. I’m still trying to figure it out", "Attachments": ""},
+{"ID": 1297704233805676607, "Timestamp": "2024-10-20 23:33:19", "Contents": "Not quite. The first 3 packets just setup the TCP connection from client to server. If you look at the 4th packet, you’ll see that it has a sequence number of 1 and an ACK number of 1. So you need to find the packet that has a sequence number that matches that ACK number of 1.", "Attachments": ""},
+{"ID": 1297653904401502289, "Timestamp": "2024-10-20 20:13:20", "Contents": "To find the first ack, you have to find the packet with an ack number that matches the sequence number of the syn packet.", "Attachments": ""},
+{"ID": 1297611586306834513, "Timestamp": "2024-10-20 17:25:10", "Contents": "I believe the sequence number of one should match the ack number of the other, which it didn’t in this case. Maybe there’s an exception for the POST segment.", "Attachments": ""},
+{"ID": 1297611412289355929, "Timestamp": "2024-10-20 17:24:29", "Contents": "I’m not confident in my answer for that one. I subtracted the time of the very first ack from the time of the HTTP post segment.", "Attachments": ""},
+{"ID": 1297607583871271075, "Timestamp": "2024-10-20 17:09:16", "Contents": "I appreciate that. Let me know as well.", "Attachments": ""},
+{"ID": 1297606531344502834, "Timestamp": "2024-10-20 17:05:05", "Contents": "Not yet", "Attachments": ""},
+{"ID": 1297606240532303962, "Timestamp": "2024-10-20 17:03:56", "Contents": "Hi. I’m good, how are you?", "Attachments": ""},
+{"ID": 1297606021841158307, "Timestamp": "2024-10-20 17:03:03", "Contents": "", "Attachments": ""}
+]

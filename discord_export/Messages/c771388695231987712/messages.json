@@ -1,0 +1,15 @@
+[
+{"ID": 771406547778666556, "Timestamp": "2020-10-29 16:14:13", "Contents": "hopefully", "Attachments": ""},
+{"ID": 771406523187855381, "Timestamp": "2020-10-29 16:14:07", "Contents": "im gonna rubberduck fractions today", "Attachments": ""},
+{"ID": 771403127336992848, "Timestamp": "2020-10-29 16:00:37", "Contents": "<@!624386017822244865>", "Attachments": ""},
+{"ID": 771399663186214953, "Timestamp": "2020-10-29 15:46:51", "Contents": "https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345", "Attachments": ""},
+{"ID": 771398978067103815, "Timestamp": "2020-10-29 15:44:08", "Contents": "https://tenor.com/view/killed-us-thanos-captain-america-avengers-end-game-end-game-gif-17439238", "Attachments": ""},
+{"ID": 771398832168370227, "Timestamp": "2020-10-29 15:43:33", "Contents": "and you didnt declare the variable", "Attachments": ""},
+{"ID": 771398805170028644, "Timestamp": "2020-10-29 15:43:27", "Contents": "you forgot the semicolon", "Attachments": ""},
+{"ID": 771395494982582292, "Timestamp": "2020-10-29 15:30:17", "Contents": "<@!314924707293954058>", "Attachments": ""},
+{"ID": 771395184717201429, "Timestamp": "2020-10-29 15:29:03", "Contents": "public class Point {\n\nint xCoord;\n\nint yCoord;\n\n\n\n\n     public Point(int x, int y) {\n\n     xCoord = x;\n\n     yCoord = y;\n\n     }\n\n     public double distance(int otherX, int otherY) {\n\n     double totalDist = Math.sqrt(Math.pow(xCoord, 2) + Math.pow(otherX, 2) + (Math.pow(yCoord, 2) + Math.pow(otherY, 2));\n\n     return totalDist;\n\n}\n\n   public double slope(int otherX, int otherY) {\n\n   double slope = (otherY - yCoord) / (otherX - xCoord);\n\n   return slope;\n\n}\n\n}", "Attachments": ""},
+{"ID": 771392645960040468, "Timestamp": "2020-10-29 15:18:58", "Contents": "Random rand = new Random();\n\nlunchID = rand.nextInt(1000000);", "Attachments": ""},
+{"ID": 771391344564240434, "Timestamp": "2020-10-29 15:13:48", "Contents": "public class Point {\n\nint xCoord;\n\nint yCoord;\n\n\n\n\n     public Point(int x, int y) {\n\n     xCoord = x;\n\n     yCoord = y;\n\n     }\n\n     public distance() {\n\n     double linDist = Math.sqrt(Math.pow(xCoord, 2) + Math.pow(yCoord, 2));", "Attachments": ""},
+{"ID": 771390635855839242, "Timestamp": "2020-10-29 15:10:59", "Contents": "public class Point {\n\nint xCoord;\n\nint yCoord;\n\n\n\n\n     public Point(int x, int y) {\n\n     xCoord = x;\n\n     yCoord = y;\n\n     }\n\n     public distance", "Attachments": ""},
+{"ID": 771390569728704552, "Timestamp": "2020-10-29 15:10:43", "Contents": "", "Attachments": ""}
+]

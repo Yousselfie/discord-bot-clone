@@ -1,0 +1,6 @@
+[
+{"ID": 1282405153684586721, "Timestamp": "2024-09-08 18:20:14", "Contents": "Alright. Thanks <@1148995646246883349> and <@1131935268077838456>", "Attachments": ""},
+{"ID": 1282001931501437009, "Timestamp": "2024-09-07 15:37:58", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1275273699108458530/1282001931472207932/image.png?ex=0&is=6a29b3a1&hm=cb6a2987602a97f8cee90cb612552dd20722dad76ad3c74a6b229fa4b2966033&uc=dp&"},
+{"ID": 1282001926417940691, "Timestamp": "2024-09-07 15:37:57", "Contents": "That makes more sense, but in lecture 1.3 at timestamp 17:24, Professor Lee says NLR is the end-to-end for one packet. The textbook also says this:", "Attachments": ""},
+{"ID": 1281998834423038143, "Timestamp": "2024-09-07 15:25:40", "Contents": "I'm trying to understand why the end-to-end delay when sending just one packet over N links is NLR.\n\nWhen there are multiple packets of interest, the equation is (n+p-1) x  L/R, which makes sense since the result will be in units of seconds, which is appropriate for describing delay. However, NLR results in units of bit^2/second doesn't it? Why multiply N by LR instead of L/R?", "Attachments": ""}
+]

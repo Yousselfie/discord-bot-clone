@@ -1,0 +1,20 @@
+[
+{"ID": 1442281915599028366, "Timestamp": "2025-11-23 22:33:24", "Contents": "Did you do (h1-h2) * (s1-s2)^-1 % n?", "Attachments": ""},
+{"ID": 1442279530742943856, "Timestamp": "2025-11-23 22:23:56", "Contents": "0x9819e0a6e95151297c09f5054c2329a3eec939d71f9ddcbbc46dd0acb58d2b1a", "Attachments": ""},
+{"ID": 1442277208268865678, "Timestamp": "2025-11-23 22:14:42", "Contents": "I think I have the private key", "Attachments": ""},
+{"ID": 1441887083948933284, "Timestamp": "2025-11-22 20:24:29", "Contents": "Anyway, <@606023871958876170> <@1424510690437234811> you guys are heroes. putting VCU on the map", "Attachments": ""},
+{"ID": 1441886832794271866, "Timestamp": "2025-11-22 20:23:29", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1440386266959970405/1441886832810786886/image.png?ex=0&is=6a29b5bf&hm=6e943bf9c2a052d559b1ec31e19f76e77dc81eea0fbb5ec8290211cd3992f0e9&uc=dp&"},
+{"ID": 1441886818231521424, "Timestamp": "2025-11-22 20:23:26", "Contents": "I think I get it. they might have wanted us to target a range of ip addresses using a subnet mask. instead of targeting one address at a time (127.0.0.1 then 127.0.0.2 etc...) we enter 127.0.0.0/24 (which is everything from 127.0.0.0 to 127.0.0.255)", "Attachments": ""},
+{"ID": 1441886053568090223, "Timestamp": "2025-11-22 20:20:24", "Contents": "how'd you guys know to check 127.0.0.2?", "Attachments": ""},
+{"ID": 1441886003983028360, "Timestamp": "2025-11-22 20:20:12", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1440386266959970405/1441886003672387594/image.png?ex=0&is=6a29b5bf&hm=945139654bd2174dbb7fd28570db206e5654764d6fd8e37c76eceee95016e5ea&uc=dp&"},
+{"ID": 1441885938077929695, "Timestamp": "2025-11-22 20:19:56", "Contents": "I just tried it. You don’t need the grep, but if I don’t add the space like you said I get the error", "Attachments": ""},
+{"ID": 1441885753423695986, "Timestamp": "2025-11-22 20:19:12", "Contents": "Thats weird", "Attachments": ""},
+{"ID": 1441869514483699723, "Timestamp": "2025-11-22 19:14:40", "Contents": "sounds like a good idea", "Attachments": ""},
+{"ID": 1441868575144018011, "Timestamp": "2025-11-22 19:10:56", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1440386266959970405/1441868574871519232/image.png?ex=0&is=6a29b5bf&hm=6a3dcf8f03898c2c3556ddfb542a27253b65e22d88aa0016cc808976ba4746ab&uc=dp&"},
+{"ID": 1441864625179328676, "Timestamp": "2025-11-22 18:55:15", "Contents": "I was thinking this would work. Maybe a different port or directory", "Attachments": "https://cdn.discordapp.com/attachments/1440386266959970405/1441864625049174026/image.png?ex=0&is=6a29b5bf&hm=c6343ebda57aa7d35068c2f1b90b9146ceea83466a593f30bb5dc6095641ce9f&uc=dp&"},
+{"ID": 1441859062923792548, "Timestamp": "2025-11-22 18:33:09", "Contents": "https://en.wikipedia.org/wiki/Reserved_IP_addresses", "Attachments": ""},
+{"ID": 1441859019651158046, "Timestamp": "2025-11-22 18:32:58", "Contents": "I'm trying different reserved IP addresses to see if it'll break", "Attachments": ""},
+{"ID": 1441857853311684871, "Timestamp": "2025-11-22 18:28:20", "Contents": "nevermind\ngot in with:\nadmin'--\n'", "Attachments": ""},
+{"ID": 1441857080922472448, "Timestamp": "2025-11-22 18:25:16", "Contents": "i copy pasted these credentals but im getting denied", "Attachments": ""},
+{"ID": 1441855354219790509, "Timestamp": "2025-11-22 18:18:24", "Contents": "what does it say when you cat flag.txt?", "Attachments": ""}
+]

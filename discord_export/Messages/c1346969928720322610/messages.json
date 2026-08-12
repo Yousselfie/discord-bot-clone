@@ -1,0 +1,12 @@
+[
+{"ID": 1347719938080768111, "Timestamp": "2025-03-07 23:57:52", "Contents": "So it’d be the second one", "Attachments": ""},
+{"ID": 1347719899371540653, "Timestamp": "2025-03-07 23:57:43", "Contents": "RAM_CTF{Rul3s_R34d_4nd_4cknOwl3dg3d}\nRAM_CTF{Rul3s_R34d_4nd_4ckn0wl3dg3d}", "Attachments": ""},
+{"ID": 1347719803657256991, "Timestamp": "2025-03-07 23:57:20", "Contents": "Check the word “acknowledged” and change from O to 0", "Attachments": ""},
+{"ID": 1347719628310446182, "Timestamp": "2025-03-07 23:56:38", "Contents": "Hey. I see the problem with the flag you submitted", "Attachments": ""},
+{"ID": 1347244019830493298, "Timestamp": "2025-03-06 16:26:44", "Contents": "We can likely just mark it as completed from our side, so don’t worry.", "Attachments": ""},
+{"ID": 1347243854549749821, "Timestamp": "2025-03-06 16:26:05", "Contents": "I’m unsure. It’s working for everyone else. I know that when you copy it straight from discord there’ll be a space copied at the end of the string.", "Attachments": ""},
+{"ID": 1346971709491904609, "Timestamp": "2025-03-05 22:24:41", "Contents": "When you copied and pasted, did you make sure to trim any whitespace?", "Attachments": ""},
+{"ID": 1346971054354075719, "Timestamp": "2025-03-05 22:22:04", "Contents": "Working that one out now", "Attachments": ""},
+{"ID": 1346970904340725911, "Timestamp": "2025-03-05 22:21:29", "Contents": "No worries", "Attachments": ""},
+{"ID": 1346970273185923092, "Timestamp": "2025-03-05 22:18:58", "Contents": "Yes, that’s right. Did you wrap it in RAM_CTF{}?", "Attachments": ""}
+]

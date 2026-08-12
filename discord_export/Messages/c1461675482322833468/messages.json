@@ -1,0 +1,4 @@
+[
+{"ID": 1461780966354849978, "Timestamp": "2026-01-16 17:55:40", "Contents": "The resulting repo turned out empty.", "Attachments": ""},
+{"ID": 1461747593603448882, "Timestamp": "2026-01-16 15:43:04", "Contents": "I've also been getting this exact same problem since yesterday. Usually, I just select the Quick Start Node js option when creating a new function, create a new repo through appwrite, and then the build deploys fine.", "Attachments": "https://cdn.discordapp.com/attachments/1461675482322833468/1461747593070641162/Screenshot_2026-01-16_at_10.38.31_AM.png?ex=0&is=6a29af61&hm=9e6eb951fcad439b4975f735199f36d9b220dbaffcae7ab1226ff00460b78c04&uc=dp& https://cdn.discordapp.com/attachments/1461675482322833468/1461747593422966895/Screenshot_2026-01-16_at_10.39.48_AM.png?ex=0&is=6a29af61&hm=97c3e2d7b8f07b2de63a50b60110a6d0087ecbf8b974694886527502f35ef13e&uc=dp&"}
+]

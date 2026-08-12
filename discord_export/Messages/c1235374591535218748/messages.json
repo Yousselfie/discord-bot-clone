@@ -1,0 +1,7 @@
+[
+{"ID": 1235375940536635452, "Timestamp": "2024-05-01 23:42:56", "Contents": "ok, thanks", "Attachments": ""},
+{"ID": 1235374968137842769, "Timestamp": "2024-05-01 23:39:04", "Contents": "(raw - offset) / scale should equal lbf then?", "Attachments": ""},
+{"ID": 1235374666038775940, "Timestamp": "2024-05-01 23:37:52", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1235374591535218748/1235374665753432084/image.png?ex=0&is=6a29af70&hm=dc50f0359375fb21659fa79b46dfaa1b2ba488c8b8788522ec3d12b4f270494b&uc=dp&"},
+{"ID": 1235374609931440260, "Timestamp": "2024-05-01 23:37:39", "Contents": "", "Attachments": "https://cdn.discordapp.com/attachments/1235374591535218748/1235374609830772767/image.png?ex=0&is=6a29af70&hm=b8d7257a0b7582d59e80e507a80e3d23ba4b5d7ef8d1523339ead0c47e542e8c&uc=dp&"},
+{"ID": 1235374598489636996, "Timestamp": "2024-05-01 23:37:36", "Contents": "Hey Andre. Assuming 'data' is the raw value from the arduino, this is same code that you used to convert from raw to lbf?", "Attachments": ""}
+]

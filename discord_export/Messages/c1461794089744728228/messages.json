@@ -1,0 +1,4 @@
+[
+{"ID": 1461862940704768161, "Timestamp": "2026-01-16 23:21:25", "Contents": "Besides that, could you please provide guidance with setting up email verification? I'm using appwrite cloud + react native and am unsure what exactly I need to make email verification work. Do I need to set up mailgun or some smtp service?", "Attachments": ""},
+{"ID": 1461794095109378200, "Timestamp": "2026-01-16 18:47:51", "Contents": "Hi. Thanks for helping so far and offering to continue. I read your latest message in the thread. I ended up setting up the repo as you suggested and now the function seems to be fine. Was there recently an update to how appwrite functions work? Before yesterday, I was able to setup the starter node repo from appwrite without issue.", "Attachments": ""}
+]
