@@ -14,10 +14,10 @@ R(etrieval) - ChromaDB grabs the 4 most relevant chunks to the question ![retrie
 
 A(ugmentation) - Building the LLM system prompt using style-example doc, and building the LLM user prompt using the context retrieved from the knowledge-base in the above step + the message directed toward the bot ![augmentation.py](augmentation.py).
 
-G(eneration) - Generating the response message using Haiku 4.5 through Claude API and having the bot send the message using Discord's API.
+G(eneration) - Generating the response message using Haiku 4.5 through Claude API and having the bot send the message using Discord's API ![bot.py](bot.py).
 
 ## Reproducability
 ### Requires:
-- ![Claude API key](https://platform.claude.com/dashboard)
+- [Claude API key](https://platform.claude.com/dashboard)
 - Discord API key
 - 
