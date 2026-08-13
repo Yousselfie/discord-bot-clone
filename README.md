@@ -8,7 +8,7 @@ Updating my team members through Discord messaging can be a tedious, repetitive 
 ## Approach
 To solve this issue while testing my applied LLM engineering skills, I created a Discord clone of myself with my texting style and full documented knowledge of my organization's operations and products.
 
-I did this through the creation of a retrieval-augmented-generation system with access to an export of all my Discord messages. When a user asks the bot a question:
+I did this through the creation of a retrieval-augmented-generation system with access to an export of all my Discord messages. When a user mentions the bot in the server:
 
 **R(etrieval)** - ChromaDB grabs the 4 most relevant chunks to the question ![retrieval.py](retrieval.py), which are 500 char pieces of the Discord export doc converted into vectors to be stored in ChromaDB ![index_knowledge.py](index_knowledge.py) (embedding) ,and returns them as a single string to be used as context by the LLM
 
