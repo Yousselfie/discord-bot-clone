@@ -1,0 +1,8 @@
+#Knowledge base 
+/knowledge
+style_example.txt
+#Database
+/chroma_db
+
+Python
+/__pycache__

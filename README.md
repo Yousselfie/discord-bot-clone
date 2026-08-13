@@ -25,10 +25,12 @@ G(eneration) - Generating the response message using Haiku 4.5 through Claude AP
 
 1. Clone the repo: 
 ```
-git@github.com:Yousselfie/discord-bot-clone.git
+git clone git@github.com:Yousselfie/discord-bot-clone.git
 ```
 2. Install dependencies: 
 ```
+cd discord-bot-clone
 poetry install
 ```
-3. 
+3. Add your own knowledge base to the project:
+Login to Discord -> Go to **User Settings** -> Select **Data & Privacy** -> **Request my data** -> Check **Messages** -> Await an email from Discord with a download link -> Move the downloaded export folder into the project root directory. 
