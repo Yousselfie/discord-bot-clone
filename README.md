@@ -34,7 +34,7 @@ cd discord-bot-clone
 poetry install
 ```
 3. Add your own knowledge base to the project:
-Login to Discord -> Go to **User Settings** -> Select **Data & Privacy** -> **Request my data** -> Check **Messages** -> Await an email from Discord with a download link -> Unzip the file and move the **/messages** directory into a new directory you need to name "knowledge" in the project root directory. 
+Login to Discord -> Go to **User Settings** -> Select **Data & Privacy** -> **Request my data** -> Check **Messages** -> Await an email from Discord with a download link -> Unzip the file and move the **/messages** directory into a new directory you need to name "discord_export" in the project root directory. 
 
 4. Extract your texting style:
 ```
