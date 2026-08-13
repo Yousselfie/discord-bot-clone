@@ -16,12 +16,13 @@ A(ugmentation) - Building the LLM system prompt using style-example doc, and bui
 
 G(eneration) - Generating the response message using Haiku 4.5 through Claude API and having the bot send the message using Discord's API ![bot.py](bot.py).
 
-## Reproducability
+## Reproduceability
 ### Prerequisites
 - Python 3.10+
 - [Poetry](https://python-poetry.org/) for dependency management
 - A **Discord bot token** ([Discord Developer Portal](https://discord.com/developers/applications))
 - An **Anthropic API key** ([console.anthropic.com](https://console.anthropic.com/)) 
+	- Ensure you set your Anthropic API key as an environment variable ([Anthropic Docs])(https://platform.claude.com/docs/en/get-api-key)
 
 1. Clone the repo: 
 ```
@@ -34,3 +35,23 @@ poetry install
 ```
 3. Add your own knowledge base to the project:
 Login to Discord -> Go to **User Settings** -> Select **Data & Privacy** -> **Request my data** -> Check **Messages** -> Await an email from Discord with a download link -> Move the downloaded export folder into the project root directory. 
+
+4. Extract your texting style:
+```
+python extract_style.py
+```
+
+5. Create a new application in [Discord Developer Portal], go to **Bot** settings, set the **Send Messages** permission, and copy the **Token**.
+
+6. Go to **OAuth2** in your Discord Developer application's settings -> Check **Bot** under **Scopes** -> Check **Send Messages** under **Bot Permissions** -> Copy the **Generated URL** and paste it into your browser to follow the steps to invite the bot to your desired Discord server.
+
+7. Uncomment 
+```
+#client.run("BOT TOKEN GOES HERE")
+```
+in ![bot.py](bot.py), and replace the placeholder text with the **Token** you copied in step 5.
+
+8. Run the bot
+```
+python bot.py
+``` 
