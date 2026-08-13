@@ -17,7 +17,18 @@ A(ugmentation) - Building the LLM system prompt using style-example doc, and bui
 G(eneration) - Generating the response message using Haiku 4.5 through Claude API and having the bot send the message using Discord's API ![bot.py](bot.py).
 
 ## Reproducability
-### Requires:
-- [Claude API key](https://platform.claude.com/dashboard)
-- Discord API key
-- 
+### Prerequisites
+- Python 3.10+
+- [Poetry](https://python-poetry.org/) for dependency management
+- A **Discord bot token** ([Discord Developer Portal](https://discord.com/developers/applications))
+- An **Anthropic API key** ([console.anthropic.com](https://console.anthropic.com/)) 
+
+1. Clone the repo: 
+```
+git@github.com:Yousselfie/discord-bot-clone.git
+```
+2. Install dependencies: 
+```
+poetry install
+```
+3. 
