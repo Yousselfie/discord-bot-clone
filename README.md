@@ -22,7 +22,7 @@ I did this through the creation of a retrieval-augmented-generation system with 
 - [Poetry](https://python-poetry.org/) for dependency management
 - A **Discord bot token** ([Discord Developer Portal](https://discord.com/developers/applications))
 - An **Anthropic API key** ([console.anthropic.com](https://console.anthropic.com/)) 
-	- Ensure you set your Anthropic API key as an environment variable ([Anthropic Docs])(https://platform.claude.com/docs/en/get-api-key)
+	- Ensure you set your Anthropic API key as an environment variable [(Anthropic Docs)](https://platform.claude.com/docs/en/get-api-key)
 
 1. Clone the repo: 
 ```
